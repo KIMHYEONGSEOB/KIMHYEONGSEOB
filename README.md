@@ -2,6 +2,7 @@
 <h3 align="center">a student aspiring to be a backend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
+<p>e-mail: hs8316@naver.com</p>
 <p align="left">
 </p>
 
